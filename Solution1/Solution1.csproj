@@ -55,6 +55,7 @@
     <Compile Include="5使用5.0\2在lambda表达式中使用await操作符.cs" />
     <Compile Include="5使用5.0\3对连续的异步任务使用await操作符.cs" />
     <Compile Include="5使用5.0\4对并行执行的异步任务使用await操作符.cs" />
+    <Compile Include="5使用5.0\5处理异步操作中的异常.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

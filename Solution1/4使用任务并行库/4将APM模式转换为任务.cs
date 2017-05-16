@@ -38,7 +38,7 @@ namespace Solution1._4使用任务并行库
             return string.Format("Thread pool worker thread id was:{0}", threadId);
         }
 
-        static void Main(string[] args)
+        static void Main44(string[] args)
         {
             int threadId;
             AsynchronousTask d = Test;
